@@ -1,0 +1,24 @@
+{
+  "name": "@morz/wait-for-workload-identity",
+  "version": "1.0.2",
+  "description": "Wait For Workload Identity",
+  "main": "index.js",
+  "bin": "./index.js",
+  "keywords": [
+    "kubernetes",
+    "workload identity"
+  ],
+  "author": "Marton Papp <morz@morz.hu>",
+  "license": "ISC",
+  "dependencies": {
+    "async-retry": "1.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morzzz007/wait-for-workload-identity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/morzzz007/wait-for-workload-identity/issues"
+  },
+  "homepage": "https://github.com/morzzz007/wait-for-workload-identity#readme"
+}
